@@ -1,6 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-## NAME : ADARSH CHOWDARY R
-## REG NO : 212223040166
+## NAME : Rahul V
+## REG NO : 212223040163
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
